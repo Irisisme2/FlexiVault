@@ -12,8 +12,12 @@ Our vision is to simplify DeFi for everyone, offering a user-friendly platform w
 ### 1. **💼 Smart Savings Vaults**:
 Users can create personalized vaults for specific financial goals, such as saving for a car 🚗, vacation 🏖, or retirement 🏡. These vaults are optimized using various DeFi protocols to maximize returns 📊 while aligning with the user’s time horizon ⏳ and risk tolerance 🎯. Each vault is a customizable financial tool that adapts to user needs, offering unique savings and investment strategies powered by DeFi. 💡
 
+![deszbor.png](https://cdn.dorahacks.io/static/files/1923cdf102f74b541c265da491a80b97.png)
+
 ### 2. **⚖️ Automated Portfolio Balancing**:
 FlexiVault uses algorithm-driven portfolio management to automatically rebalance vaults based on market conditions. 📊 The platform continuously monitors the performance of assets within each vault, dynamically reallocating funds to ensure the highest possible returns 💵 without exceeding the user's risk threshold. 📉
+
+![vaults.png](https://cdn.dorahacks.io/static/files/19240045a1abceac14da90e4e18b4bbc.png)
 
 ### 3. **🛡 Real-Time Risk Management & Loss Protection**:
 One of FlexiVault's core features is its built-in protection against market downturns 📉. The platform employs advanced risk management algorithms 🧠 that can automatically shift assets into safer investments 🏦 or stablecoins 💵 when high volatility 🌪 or a potential market crash is detected. This ensures users' vaults are protected from excessive loss 🔐 while still seeking growth opportunities 📈.
