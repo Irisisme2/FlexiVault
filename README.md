@@ -47,6 +47,8 @@ FlexiVault integrates AI-powered models 🤖 that analyze market data and trends
 - **🔗 Integration with CrossFi Chain**:  
   FlexiVault fully leverages the CrossFi Chain ecosystem 🌐, using the XFI native coin as a core part of the platform’s financial infrastructure 💵. Users can earn rewards 🎁 in XFI, and the token will be utilized for staking 📊, governance 🗳, and fee payments 💸. The platform also contributes to the liquidity 💧 and utility of XFI within the broader CrossFi ecosystem. 🔗
 
+![xfi.png](https://cdn.dorahacks.io/static/files/192403287484f4617a98f104f9aaa133.png)
+
 ---
 
 ## 🎯 Short-Term Vision:
