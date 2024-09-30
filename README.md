@@ -25,8 +25,12 @@ One of FlexiVault's core features is its built-in protection against market down
 ### 4. **📊 Interactive Analytics Dashboard**:
 Users have access to a visually engaging dashboard 💻 where they can track their vault performance in real-time ⏱. The dashboard provides detailed analytics 📈, including projected growth, risk analysis ⚖️, and transaction history 📜. It also includes alerts 🚨 for market changes that may impact vault performance, allowing users to adjust their strategies if needed 🔄.
 
+![market.png](https://cdn.dorahacks.io/static/files/19240438174258d5dcd45e74d3b8de87.png)
+
 ### 5. **🔗 Tokenized Vaults**:
 Every vault is represented by tokens 🎫, which can be traded, staked, or used as collateral in other DeFi protocols. This adds an additional layer of liquidity 💧 and utility to the FlexiVault ecosystem 🌐, offering more flexibility for users to manage their assets easily 💰.
+
+![assetki.png](https://cdn.dorahacks.io/static/files/192404420c3bc53669ac79b4c5ca01d3.png)
 
 ### 6. **🤖 AI-Driven Risk & Investment Strategies**:
 FlexiVault integrates AI-powered models 🤖 that analyze market data and trends 📊 to optimize each vault’s investment strategy. Whether the focus is on high returns 🏆 or capital preservation 💼, the platform automatically adjusts investment allocations to meet the user’s preferences and changing market conditions. 🌐
